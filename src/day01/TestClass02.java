@@ -21,6 +21,6 @@ public class TestClass02 {
 		
 		System.out.println(111 + "\t" + 222);
 		
-		System.out.println(" \\      \" ");
+		System.out.println(" \\ \" ");
 	}
 }
